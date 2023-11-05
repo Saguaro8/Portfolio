@@ -1,0 +1,11 @@
+Description:
+This Streamlit dashboard analyzes sales data, providing visualizations for sales vs. profit, total sales by shipping mode, and total profit by category. 
+Users can filter data by segment, region, and category to observe specific trends. The dashboard presents insights into sales performance, aiding in strategic decision-making.
+
+Required Libraries:
+Streamlit
+Pandas
+Plotly
+
+Note on Dashboard Appearance:
+You can see the look of the dashboard in the files 'dashboard1' and 'dashboard2'.
